@@ -1,0 +1,58 @@
+/*!
+Theme Name: safiri salama
+Theme URI: http://underscores.me/
+Author: Underscores.me
+Author URI: http://underscores.me/
+Description: Description
+Version: 1.0.0
+License: GNU General Public License v2 or later
+License URI: LICENSE
+Text Domain: safiri-salama
+Tags: custom-background, custom-logo, custom-menu, featured-images, threaded-comments, translation-ready
+
+This theme, like WordPress, is licensed under the GPL.
+Use it to make something cool, have fun, and share what you've learned with others.
+
+safiri salama is based on Underscores https://underscores.me/, (C) 2012-2017 Automattic, Inc.
+Underscores is distributed under the terms of the GNU GPL v2 or later.
+
+Normalizing styles have been helped along thanks to the fine work of
+Nicolas Gallagher and Jonathan Neal https://necolas.github.io/normalize.css/
+*/
+/*--------------------------------------------------------------
+>>> TABLE OF CONTENTS:
+----------------------------------------------------------------
+# Normalize
+# Typography
+# Elements
+# Forms
+# Navigation
+	## Links
+	## Menus
+# Accessibility
+# Alignments
+# Clearings
+# Widgets
+# Content
+	## Posts and pages
+	## Comments
+# Infinite scroll
+# Media
+	## Captions
+	## Galleries
+--------------------------------------------------------------*/
+/*--------------------------------------------------------------
+# Normalize
+*/
+@font-face {
+	font-family: SF-Pro-Display-Heavy;
+	src: url('https://safirisalama.com/wp-content/themes/safiri-salama/fonts/SF-Pro-Display-Heavy.otf');
+}
+@font-face {
+	font-family: SF-Pro-Display-Regular;
+	src: url('https://safirisalama.com/wp-content/themes/safiri-salama/fonts/SF-Pro-Display-Regular.otf');
+}
+@font-face {
+	font-family: SF-Pro-Display-Thin;
+	src: url('https://safirisalama.com/wp-content/themes/safiri-salama/fonts/SF-Pro-Display-Thin.otf');
+}
